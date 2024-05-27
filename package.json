@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
+  },
+  "name": "abxtech_ecomly_server",
+  "version": "1.0.0",
+  "description": "ecommerce server",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abuXahra/abxtech_ecomly_server.git"
+  },
+  "author": "abxcybertech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abuXahra/abxtech_ecomly_server/issues"
+  },
+  "homepage": "https://github.com/abuXahra/abxtech_ecomly_server#readme"
+}
